@@ -1,0 +1,17 @@
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\bin\x86\Release\BrowserTutorial.exe.config
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.exe
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.xml
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.pdb
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\bin\x86\Release\BrowserTutorial.exe
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\bin\x86\Release\BrowserTutorial.pdb
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\bin\x86\Release\BrowserTutorial.xml
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\RB.vbprojResolveAssemblyReference.cache
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.About.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.Form1.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.DevTools.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.History.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.Resources.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.BrowserTab.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.PageInfoDialog.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\BrowserTutorial.Settings.resources
+C:\Users\iTitan\Documents\GitHub\RecBrowser\RecBrowser\BrowserTutorial\obj\x86\Release\RB.vbproj.GenerateResource.Cache
